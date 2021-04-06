@@ -36,3 +36,6 @@ def OnPlayerConnect(playerid):
 ```
 ## Source Code
 [PySAMP](https://github.com/habecker/PySAMP)
+# Original Creators 
+- habecker
+- dennorske
