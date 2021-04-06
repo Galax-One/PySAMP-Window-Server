@@ -1,0 +1,1421 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:49:45] 
+[21:49:45] Server Plugins
+[21:49:45] --------------
+[21:49:45]  Loading plugin: PySAMP
+[21:49:45]   Failed.
+[21:49:45]  Loading plugin: PySAMP.dll
+[21:49:45]   Failed.
+[21:49:45]  Loaded 0 plugins.
+
+[21:49:45] 
+[21:49:45] Filterscripts
+[21:49:45] ---------------
+[21:49:45]   Loading filterscript 'gl_actions.amx'...
+[21:49:45]   Loading filterscript 'gl_realtime.amx'...
+[21:49:45]   Loading filterscript 'gl_property.amx'...
+[21:49:45] 
+-----------------------------------
+[21:49:45] Grand Larceny Property Filterscript		
+[21:49:45] -----------------------------------
+
+[21:49:45]   Loading filterscript 'gl_mapicon.amx'...
+[21:49:45]   Loading filterscript 'ls_elevator.amx'...
+[21:49:45]   Loading filterscript 'attachments.amx'...
+[21:49:45]   Loading filterscript 'skinchanger.amx'...
+[21:49:45] 
+--Admin Player Skin Changer Loaded
+
+[21:49:45]   Loading filterscript 'vspawner.amx'...
+[21:49:45] 
+--Admin Vehicle Spawner Loaded
+
+[21:49:45]   Loading filterscript 'ls_mall.amx'...
+[21:49:45]   Loading filterscript 'ls_beachside.amx'...
+[21:49:45] 
+
+[21:49:45]   |---------------------------------------------------
+[21:49:45]   |--- LS BeachSide Filterscript
+[21:49:45]   |--  Script v1.03
+[21:49:45]   |--  19th April 2015
+[21:49:45]   |---------------------------------------------------
+[21:49:45]   |--  LS BeachSide Building Elevator created
+[21:49:45]   |---------------------------------------------------
+[21:49:45]   Loaded 10 filterscripts.
+
+[21:49:45] Loaded 3 vehicles from: vehicles/trains.txt
+[21:49:45] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:49:45] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:49:45] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:49:45] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:49:45] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:49:45] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:49:45] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:49:45] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:49:45] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:49:45] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:49:45] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:49:45] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:49:45] Loaded 168 vehicles from: vehicles/bone.txt
+[21:49:45] Loaded 61 vehicles from: vehicles/flint.txt
+[21:49:45] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:49:45] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:49:45] Total vehicles from files: 1781
+[21:49:45] Reading File: blank
+[21:49:45] Reading File: properties/houses.txt
+[21:49:45] Reading File: properties/businesses.txt
+[21:49:45] Reading File: properties/banks.txt
+[21:49:45] Reading File: properties/police.txt
+[21:49:45] 
+---------------------------------------
+[21:49:45] Running Grand Larceny - by the SA-MP team
+
+[21:49:45] ---------------------------------------
+
+[21:49:45] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:50:38] 
+[21:50:38] Server Plugins
+[21:50:38] --------------
+[21:50:38]  Loading plugin: PySAMP
+[21:50:38]   Failed.
+[21:50:38]  Loading plugin: PySAMP.dll
+[21:50:38]   Failed.
+[21:50:38]  Loaded 0 plugins.
+
+[21:50:38] 
+[21:50:38] Filterscripts
+[21:50:38] ---------------
+[21:50:38]   Loading filterscript 'gl_actions.amx'...
+[21:50:38]   Loading filterscript 'gl_realtime.amx'...
+[21:50:38]   Loading filterscript 'gl_property.amx'...
+[21:50:38] 
+-----------------------------------
+[21:50:38] Grand Larceny Property Filterscript		
+[21:50:38] -----------------------------------
+
+[21:50:38]   Loading filterscript 'gl_mapicon.amx'...
+[21:50:38]   Loading filterscript 'ls_elevator.amx'...
+[21:50:38]   Loading filterscript 'attachments.amx'...
+[21:50:38]   Loading filterscript 'skinchanger.amx'...
+[21:50:38] 
+--Admin Player Skin Changer Loaded
+
+[21:50:38]   Loading filterscript 'vspawner.amx'...
+[21:50:38] 
+--Admin Vehicle Spawner Loaded
+
+[21:50:38]   Loading filterscript 'ls_mall.amx'...
+[21:50:38]   Loading filterscript 'ls_beachside.amx'...
+[21:50:38] 
+
+[21:50:38]   |---------------------------------------------------
+[21:50:38]   |--- LS BeachSide Filterscript
+[21:50:38]   |--  Script v1.03
+[21:50:38]   |--  19th April 2015
+[21:50:38]   |---------------------------------------------------
+[21:50:38]   |--  LS BeachSide Building Elevator created
+[21:50:38]   |---------------------------------------------------
+[21:50:38]   Loaded 10 filterscripts.
+
+[21:50:38] Loaded 3 vehicles from: vehicles/trains.txt
+[21:50:38] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:50:38] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:50:38] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:50:38] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:50:38] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:50:38] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:50:38] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:50:38] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:50:38] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:50:38] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:50:38] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:50:38] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:50:38] Loaded 168 vehicles from: vehicles/bone.txt
+[21:50:38] Loaded 61 vehicles from: vehicles/flint.txt
+[21:50:38] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:50:38] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:50:38] Total vehicles from files: 1781
+[21:50:38] Reading File: blank
+[21:50:38] Reading File: properties/houses.txt
+[21:50:38] Reading File: properties/businesses.txt
+[21:50:38] Reading File: properties/banks.txt
+[21:50:38] Reading File: properties/police.txt
+[21:50:38] 
+---------------------------------------
+[21:50:38] Running Grand Larceny - by the SA-MP team
+
+[21:50:38] ---------------------------------------
+
+[21:50:38] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:52:20] 
+[21:52:20] Server Plugins
+[21:52:20] --------------
+[21:52:20]  Loading plugin: PySAMP
+[21:52:20]   Failed.
+[21:52:20]  Loading plugin: PySAMP.dll
+[21:52:20]   Failed.
+[21:52:20]  Loaded 0 plugins.
+
+[21:52:20] 
+[21:52:20] Filterscripts
+[21:52:20] ---------------
+[21:52:20]   Loading filterscript 'gl_actions.amx'...
+[21:52:20]   Loading filterscript 'gl_realtime.amx'...
+[21:52:20]   Loading filterscript 'gl_property.amx'...
+[21:52:20] 
+-----------------------------------
+[21:52:20] Grand Larceny Property Filterscript		
+[21:52:20] -----------------------------------
+
+[21:52:20]   Loading filterscript 'gl_mapicon.amx'...
+[21:52:20]   Loading filterscript 'ls_elevator.amx'...
+[21:52:20]   Loading filterscript 'attachments.amx'...
+[21:52:20]   Loading filterscript 'skinchanger.amx'...
+[21:52:20] 
+--Admin Player Skin Changer Loaded
+
+[21:52:20]   Loading filterscript 'vspawner.amx'...
+[21:52:20] 
+--Admin Vehicle Spawner Loaded
+
+[21:52:20]   Loading filterscript 'ls_mall.amx'...
+[21:52:20]   Loading filterscript 'ls_beachside.amx'...
+[21:52:20] 
+
+[21:52:20]   |---------------------------------------------------
+[21:52:20]   |--- LS BeachSide Filterscript
+[21:52:20]   |--  Script v1.03
+[21:52:20]   |--  19th April 2015
+[21:52:20]   |---------------------------------------------------
+[21:52:20]   |--  LS BeachSide Building Elevator created
+[21:52:20]   |---------------------------------------------------
+[21:52:20]   Loaded 10 filterscripts.
+
+[21:52:20] Loaded 3 vehicles from: vehicles/trains.txt
+[21:52:20] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:52:20] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:52:20] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:52:20] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:52:20] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:52:20] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:52:20] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:52:20] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:52:20] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:52:20] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:52:20] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:52:20] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:52:20] Loaded 168 vehicles from: vehicles/bone.txt
+[21:52:20] Loaded 61 vehicles from: vehicles/flint.txt
+[21:52:20] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:52:20] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:52:20] Total vehicles from files: 1781
+[21:52:20] Reading File: blank
+[21:52:20] Reading File: properties/houses.txt
+[21:52:20] Reading File: properties/businesses.txt
+[21:52:20] Reading File: properties/banks.txt
+[21:52:20] Reading File: properties/police.txt
+[21:52:20] 
+---------------------------------------
+[21:52:20] Running Grand Larceny - by the SA-MP team
+
+[21:52:20] ---------------------------------------
+
+[21:52:20] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:53:31] 
+[21:53:31] Server Plugins
+[21:53:31] --------------
+[21:53:31]  Loading plugin: PySAMP
+[21:53:31]   Loaded.
+[21:53:31]  Loading plugin: PySAMP.dll
+[21:53:31] PySAMP 1.2.0 (Jan 25 2021 22:32:58) for python3.8.6
+[21:53:31] [sampgdk:error] Error registering plugin: Invalid argument
+[21:53:31]   Failed.
+[21:53:31]  Loaded 1 plugins.
+
+[21:53:31] 
+[21:53:31] Filterscripts
+[21:53:31] ---------------
+[21:53:31]   Loading filterscript 'gl_actions.amx'...
+[21:53:31]   Loading filterscript 'gl_realtime.amx'...
+[21:53:31]   Loading filterscript 'gl_property.amx'...
+[21:53:31] 
+-----------------------------------
+[21:53:31] Grand Larceny Property Filterscript		
+[21:53:31] -----------------------------------
+
+[21:53:31]   Loading filterscript 'gl_mapicon.amx'...
+[21:53:31]   Loading filterscript 'ls_elevator.amx'...
+[21:53:31]   Loading filterscript 'attachments.amx'...
+[21:53:31]   Loading filterscript 'skinchanger.amx'...
+[21:53:31] 
+--Admin Player Skin Changer Loaded
+
+[21:53:31]   Loading filterscript 'vspawner.amx'...
+[21:53:31] 
+--Admin Vehicle Spawner Loaded
+
+[21:53:31]   Loading filterscript 'ls_mall.amx'...
+[21:53:31]   Loading filterscript 'ls_beachside.amx'...
+[21:53:31] 
+
+[21:53:31]   |---------------------------------------------------
+[21:53:31]   |--- LS BeachSide Filterscript
+[21:53:31]   |--  Script v1.03
+[21:53:31]   |--  19th April 2015
+[21:53:31]   |---------------------------------------------------
+[21:53:31]   |--  LS BeachSide Building Elevator created
+[21:53:31]   |---------------------------------------------------
+[21:53:31]   Loaded 10 filterscripts.
+
+[21:53:31] Loaded 3 vehicles from: vehicles/trains.txt
+[21:53:31] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:53:31] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:53:31] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:53:31] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:53:31] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:53:31] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:53:31] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:53:31] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:53:31] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:53:31] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:53:31] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:53:31] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:53:31] Loaded 168 vehicles from: vehicles/bone.txt
+[21:53:31] Loaded 61 vehicles from: vehicles/flint.txt
+[21:53:31] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:53:31] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:53:31] Total vehicles from files: 1781
+[21:53:31] Reading File: blank
+[21:53:31] Reading File: properties/houses.txt
+[21:53:31] Reading File: properties/businesses.txt
+[21:53:31] Reading File: properties/banks.txt
+[21:53:31] Reading File: properties/police.txt
+[21:53:31] Loading PYSAMP
+[21:53:31] Loading PySAMP gamemode
+[21:53:31] PyGamemode::PyGamemode(\python)
+[21:53:31] 
+---------------------------------------
+[21:53:31] Initializing Threading
+[21:53:31] Running Grand Larceny - by the SA-MP team
+
+[21:53:31] ---------------------------------------
+
+[21:53:31] Number of vehicle models: 173
+[21:53:31] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:53:57] 
+[21:53:57] Server Plugins
+[21:53:57] --------------
+[21:53:57]  Loading plugin: PySAMP
+[21:53:57]   Loaded.
+[21:53:57]  Loading plugin: PySAMP.dll
+[21:53:57] PySAMP 1.2.0 (Jan 25 2021 22:32:58) for python3.8.6
+[21:53:57] [sampgdk:error] Error registering plugin: Invalid argument
+[21:53:57]   Failed.
+[21:53:57]  Loaded 1 plugins.
+
+[21:53:57] 
+[21:53:57] Filterscripts
+[21:53:57] ---------------
+[21:53:57]   Loading filterscript 'gl_actions.amx'...
+[21:53:57]   Loading filterscript 'gl_realtime.amx'...
+[21:53:57]   Loading filterscript 'gl_property.amx'...
+[21:53:57] 
+-----------------------------------
+[21:53:57] Grand Larceny Property Filterscript		
+[21:53:57] -----------------------------------
+
+[21:53:57]   Loading filterscript 'gl_mapicon.amx'...
+[21:53:57]   Loading filterscript 'ls_elevator.amx'...
+[21:53:57]   Loading filterscript 'attachments.amx'...
+[21:53:57]   Loading filterscript 'skinchanger.amx'...
+[21:53:57] 
+--Admin Player Skin Changer Loaded
+
+[21:53:57]   Loading filterscript 'vspawner.amx'...
+[21:53:57] 
+--Admin Vehicle Spawner Loaded
+
+[21:53:57]   Loading filterscript 'ls_mall.amx'...
+[21:53:57]   Loading filterscript 'ls_beachside.amx'...
+[21:53:57] 
+
+[21:53:57]   |---------------------------------------------------
+[21:53:57]   |--- LS BeachSide Filterscript
+[21:53:57]   |--  Script v1.03
+[21:53:57]   |--  19th April 2015
+[21:53:57]   |---------------------------------------------------
+[21:53:57]   |--  LS BeachSide Building Elevator created
+[21:53:57]   |---------------------------------------------------
+[21:53:57]   Loaded 10 filterscripts.
+
+[21:53:57] Loaded 3 vehicles from: vehicles/trains.txt
+[21:53:57] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:53:57] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:53:57] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:53:57] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:53:57] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:53:57] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:53:57] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:53:57] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:53:57] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:53:57] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:53:57] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:53:57] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:53:57] Loaded 168 vehicles from: vehicles/bone.txt
+[21:53:57] Loaded 61 vehicles from: vehicles/flint.txt
+[21:53:57] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:53:57] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:53:57] Total vehicles from files: 1781
+[21:53:58] Reading File: blank
+[21:53:58] Reading File: properties/houses.txt
+[21:53:58] Reading File: properties/businesses.txt
+[21:53:58] Reading File: properties/banks.txt
+[21:53:58] Reading File: properties/police.txt
+[21:53:58] Loading PYSAMP
+[21:53:58] Loading PySAMP gamemode
+[21:53:58] PyGamemode::PyGamemode(\python)
+[21:53:58] 
+---------------------------------------
+[21:53:58] Initializing Threading
+[21:53:58] Running Grand Larceny - by the SA-MP team
+
+[21:53:58] ---------------------------------------
+
+[21:53:58] Number of vehicle models: 173
+[21:53:58] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:05] 
+[21:59:05] Server Plugins
+[21:59:05] --------------
+[21:59:05]  Loading plugin: PySAMP
+[21:59:05]   Loaded.
+[21:59:05]  Loading plugin: PySAMP.dll
+[21:59:05] PySAMP 1.2.0 (Jan 25 2021 22:32:58) for python3.8.6
+[21:59:05] [sampgdk:error] Error registering plugin: Invalid argument
+[21:59:05]   Failed.
+[21:59:05]  Loaded 1 plugins.
+
+[21:59:06] 
+[21:59:06] Filterscripts
+[21:59:06] ---------------
+[21:59:06]   Loading filterscript 'gl_actions.amx'...
+[21:59:06]   Loading filterscript 'gl_realtime.amx'...
+[21:59:06]   Loading filterscript 'gl_property.amx'...
+[21:59:06] 
+-----------------------------------
+[21:59:06] Grand Larceny Property Filterscript		
+[21:59:06] -----------------------------------
+
+[21:59:06]   Loading filterscript 'gl_mapicon.amx'...
+[21:59:06]   Loading filterscript 'ls_elevator.amx'...
+[21:59:06]   Loading filterscript 'attachments.amx'...
+[21:59:06]   Loading filterscript 'skinchanger.amx'...
+[21:59:06] 
+--Admin Player Skin Changer Loaded
+
+[21:59:06]   Loading filterscript 'vspawner.amx'...
+[21:59:06] 
+--Admin Vehicle Spawner Loaded
+
+[21:59:06]   Loading filterscript 'ls_mall.amx'...
+[21:59:06]   Loading filterscript 'ls_beachside.amx'...
+[21:59:06] 
+
+[21:59:06]   |---------------------------------------------------
+[21:59:06]   |--- LS BeachSide Filterscript
+[21:59:06]   |--  Script v1.03
+[21:59:06]   |--  19th April 2015
+[21:59:06]   |---------------------------------------------------
+[21:59:06]   |--  LS BeachSide Building Elevator created
+[21:59:06]   |---------------------------------------------------
+[21:59:06]   Loaded 10 filterscripts.
+
+[21:59:06] Loaded 3 vehicles from: vehicles/trains.txt
+[21:59:06] Loaded 3 vehicles from: vehicles/pilots.txt
+[21:59:06] Loaded 15 vehicles from: vehicles/lv_law.txt
+[21:59:06] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[21:59:06] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[21:59:06] Loaded 38 vehicles from: vehicles/sf_law.txt
+[21:59:06] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[21:59:06] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[21:59:06] Loaded 24 vehicles from: vehicles/ls_law.txt
+[21:59:06] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[21:59:06] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[21:59:06] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[21:59:06] Loaded 71 vehicles from: vehicles/whetstone.txt
+[21:59:06] Loaded 168 vehicles from: vehicles/bone.txt
+[21:59:06] Loaded 61 vehicles from: vehicles/flint.txt
+[21:59:06] Loaded 96 vehicles from: vehicles/tierra.txt
+[21:59:06] Loaded 96 vehicles from: vehicles/red_county.txt
+[21:59:06] Total vehicles from files: 1781
+[21:59:06] Reading File: blank
+[21:59:06] Reading File: properties/houses.txt
+[21:59:06] Reading File: properties/businesses.txt
+[21:59:06] Reading File: properties/banks.txt
+[21:59:06] Reading File: properties/police.txt
+[21:59:06] Loading PYSAMP
+[21:59:06] Loading PySAMP gamemode
+[21:59:06] PyGamemode::PyGamemode(\python)
+[21:59:06] 
+---------------------------------------
+[21:59:06] Running Grand Larceny - by the SA-MP team
+
+[21:59:06] Initializing Threading
+[21:59:06] ---------------------------------------
+
+[21:59:06] Number of vehicle models: 173
+[21:59:06] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:01] 
+[22:02:01] Server Plugins
+[22:02:01] --------------
+[22:02:01]  Loading plugin: PySAMP
+[22:02:01]   Loaded.
+[22:02:01]  Loaded 1 plugins.
+
+[22:02:01] 
+[22:02:01] Filterscripts
+[22:02:01] ---------------
+[22:02:01]   Loading filterscript 'gl_actions.amx'...
+[22:02:01]   Loading filterscript 'gl_realtime.amx'...
+[22:02:01]   Loading filterscript 'gl_property.amx'...
+[22:02:01] 
+-----------------------------------
+[22:02:01] Grand Larceny Property Filterscript		
+[22:02:01] -----------------------------------
+
+[22:02:01]   Loading filterscript 'gl_mapicon.amx'...
+[22:02:01]   Loading filterscript 'ls_elevator.amx'...
+[22:02:01]   Loading filterscript 'attachments.amx'...
+[22:02:02]   Loading filterscript 'skinchanger.amx'...
+[22:02:02] 
+--Admin Player Skin Changer Loaded
+
+[22:02:02]   Loading filterscript 'vspawner.amx'...
+[22:02:02] 
+--Admin Vehicle Spawner Loaded
+
+[22:02:02]   Loading filterscript 'ls_mall.amx'...
+[22:02:02]   Loading filterscript 'ls_beachside.amx'...
+[22:02:02] 
+
+[22:02:02]   |---------------------------------------------------
+[22:02:02]   |--- LS BeachSide Filterscript
+[22:02:02]   |--  Script v1.03
+[22:02:02]   |--  19th April 2015
+[22:02:02]   |---------------------------------------------------
+[22:02:02]   |--  LS BeachSide Building Elevator created
+[22:02:02]   |---------------------------------------------------
+[22:02:02]   Loaded 10 filterscripts.
+
+[22:02:02] Loaded 3 vehicles from: vehicles/trains.txt
+[22:02:02] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:02:02] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:02:02] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:02:02] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:02:02] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:02:02] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:02:02] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:02:02] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:02:02] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:02:02] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:02:02] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:02:02] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:02:02] Loaded 168 vehicles from: vehicles/bone.txt
+[22:02:02] Loaded 61 vehicles from: vehicles/flint.txt
+[22:02:02] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:02:02] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:02:02] Total vehicles from files: 1781
+[22:02:02] Reading File: blank
+[22:02:02] Reading File: properties/houses.txt
+[22:02:02] Reading File: properties/businesses.txt
+[22:02:02] Reading File: properties/banks.txt
+[22:02:02] Reading File: properties/police.txt
+[22:02:02] Loading PYSAMP
+[22:02:02] Loading PySAMP gamemode
+[22:02:02] PyGamemode::PyGamemode(\python)
+[22:02:02] 
+---------------------------------------
+[22:02:02] Initializing Threading
+[22:02:02] Running Grand Larceny - by the SA-MP team
+
+[22:02:02] ---------------------------------------
+
+[22:02:02] Number of vehicle models: 173
+[22:02:02] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:01] 
+[22:03:01] Server Plugins
+[22:03:01] --------------
+[22:03:01]  Loading plugin: PySAMP.dll
+[22:03:01]   Loaded.
+[22:03:01]  Loaded 1 plugins.
+
+[22:03:01] 
+[22:03:01] Filterscripts
+[22:03:01] ---------------
+[22:03:01]   Loading filterscript 'gl_actions.amx'...
+[22:03:01]   Loading filterscript 'gl_realtime.amx'...
+[22:03:01]   Loading filterscript 'gl_property.amx'...
+[22:03:01] 
+-----------------------------------
+[22:03:01] Grand Larceny Property Filterscript		
+[22:03:01] -----------------------------------
+
+[22:03:01]   Loading filterscript 'gl_mapicon.amx'...
+[22:03:01]   Loading filterscript 'ls_elevator.amx'...
+[22:03:01]   Loading filterscript 'attachments.amx'...
+[22:03:01]   Loading filterscript 'skinchanger.amx'...
+[22:03:01] 
+--Admin Player Skin Changer Loaded
+
+[22:03:01]   Loading filterscript 'vspawner.amx'...
+[22:03:01] 
+--Admin Vehicle Spawner Loaded
+
+[22:03:01]   Loading filterscript 'ls_mall.amx'...
+[22:03:01]   Loading filterscript 'ls_beachside.amx'...
+[22:03:01] 
+
+[22:03:01]   |---------------------------------------------------
+[22:03:01]   |--- LS BeachSide Filterscript
+[22:03:01]   |--  Script v1.03
+[22:03:01]   |--  19th April 2015
+[22:03:01]   |---------------------------------------------------
+[22:03:01]   |--  LS BeachSide Building Elevator created
+[22:03:01]   |---------------------------------------------------
+[22:03:01]   Loaded 10 filterscripts.
+
+[22:03:01] Loaded 3 vehicles from: vehicles/trains.txt
+[22:03:01] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:03:01] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:03:01] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:03:01] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:03:01] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:03:01] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:03:01] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:03:01] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:03:01] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:03:01] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:03:01] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:03:01] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:03:01] Loaded 168 vehicles from: vehicles/bone.txt
+[22:03:01] Loaded 61 vehicles from: vehicles/flint.txt
+[22:03:01] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:03:01] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:03:01] Total vehicles from files: 1781
+[22:03:01] Reading File: blank
+[22:03:01] Reading File: properties/houses.txt
+[22:03:01] Reading File: properties/businesses.txt
+[22:03:01] Reading File: properties/banks.txt
+[22:03:01] Reading File: properties/police.txt
+[22:03:01] Loading PYSAMP
+[22:03:01] Loading PySAMP gamemode
+[22:03:01] PyGamemode::PyGamemode(\python)
+[22:03:01] 
+---------------------------------------
+[22:03:01] Initializing Threading
+[22:03:01] Running Grand Larceny - by the SA-MP team
+
+[22:03:01] ---------------------------------------
+
+[22:03:01] Number of vehicle models: 173
+[22:03:01] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:07:07] filterscripts = ""  (string)
+[22:07:07] 
+[22:07:07] Server Plugins
+[22:07:07] --------------
+[22:07:07]  Loading plugin: PySAMP.dll
+[22:07:07]   Loaded.
+[22:07:07]  Loaded 1 plugins.
+
+[22:07:07] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:07:07] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:14:42] filterscripts = ""  (string)
+[22:14:42] 
+[22:14:42] Server Plugins
+[22:14:42] --------------
+[22:14:42]  Loading plugin: PySAMP.dll
+[22:14:42]   Loaded.
+[22:14:42]  Loaded 1 plugins.
+
+[22:14:42] 
+[22:14:42] Filterscripts
+[22:14:42] ---------------
+[22:14:42]   Loaded 0 filterscripts.
+
+[22:14:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:14:42] Loading PYSAMP
+[22:14:42] Loading PySAMP gamemode
+[22:14:42] PyGamemode::PyGamemode(\python)
+[22:14:42] 
+----------------------------------
+[22:14:42] Initializing Threading
+[22:14:42]   Bare Script
+
+[22:14:42] ----------------------------------
+
+[22:14:42] Number of vehicle models: 0
+[22:14:42] Initialized Threading
+[22:15:56] [connection] incoming connection: 127.0.0.1:64939 id: 0
+[22:15:59] [join] DeViL has joined the server (0:127.0.0.1)
+[22:18:44] /help
+[22:18:55] RCON (In-Game): Player #0 (DeViL) has logged in.
+[22:25:59] RCON (In-Game): Player [DeViL] sent command: changemode gamemode
+[22:26:03] RCON (In-Game): Player [DeViL] sent command: changemode bare
+[22:26:03] Stopping PYSAMP-Threading
+[22:26:15] Loading PYSAMP
+[22:26:15] Reloading PySAMP gamemode
+[22:26:15] PyGamemode::reload()-begin
+[22:26:15] PyGamemode::reload()-end
+[22:26:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:26:15] 
+----------------------------------
+[22:26:15] Initializing Threading
+[22:26:15]   Bare Script
+
+[22:26:15] ----------------------------------
+
+[22:26:15] Number of vehicle models: 0
+[22:26:15] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:19] filterscripts = ""  (string)
+[22:34:19] 
+[22:34:19] Server Plugins
+[22:34:19] --------------
+[22:34:19]  Loading plugin: PySAMP.dll
+[22:34:19]   Loaded.
+[22:34:19]  Loaded 1 plugins.
+
+[22:34:19] 
+[22:34:19] Filterscripts
+[22:34:19] ---------------
+[22:34:19]   Loaded 0 filterscripts.
+
+[22:34:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:34:19] Loading PYSAMP
+[22:34:19] Loading PySAMP gamemode
+[22:34:19] PyGamemode::PyGamemode(\python)
+[22:34:19] 
+----------------------------------
+[22:34:19]   Bare Script
+
+[22:34:19] ----------------------------------
+
+[22:34:19] Number of vehicle models: 0
+[22:34:19] Initializing Threading
+[22:34:19] Initialized Threading
+[22:34:50] [connection] incoming connection: 127.0.0.1:62309 id: 0
+[22:34:50] [join] DeViL has joined the server (0:127.0.0.1)
+[22:36:30] RCON (In-Game): Player #0 (DeViL) has logged in.
+[22:36:31] RCON (In-Game): Player [DeViL] sent command: changemode bare
+[22:36:31] Stopping PYSAMP-Threading
+[22:36:44] Loading PYSAMP
+[22:36:44] Reloading PySAMP gamemode
+[22:36:44] PyGamemode::reload()-begin
+[22:36:44] PyGamemode::reload()-end
+[22:36:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:36:44] Initializing Threading
+[22:36:44] 
+----------------------------------
+[22:36:44]   Bare Script
+
+[22:36:44] ----------------------------------
+
+[22:36:44] Number of vehicle models: 0
+[22:36:44] Initialized Threading
+[22:36:49] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:11] filterscripts = ""  (string)
+[22:37:11] 
+[22:37:11] Server Plugins
+[22:37:11] --------------
+[22:37:11]  Loading plugin: PySAMP.dll
+[22:37:11]   Loaded.
+[22:37:11]  Loaded 1 plugins.
+
+[22:37:11] 
+[22:37:11] Filterscripts
+[22:37:11] ---------------
+[22:37:11]   Loaded 0 filterscripts.
+
+[22:37:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:37:11] Loading PYSAMP
+[22:37:11] Loading PySAMP gamemode
+[22:37:11] PyGamemode::PyGamemode(\python)
+[22:37:11] 
+----------------------------------
+[22:37:11] Initializing Threading
+[22:37:11]   Bare Script
+
+[22:37:11] ----------------------------------
+
+[22:37:11] Number of vehicle models: 0
+[22:37:11] Initialized Threading
+[22:37:35] [connection] incoming connection: 127.0.0.1:64101 id: 0
+[22:37:35] [join] DeViL has joined the server (0:127.0.0.1)
+[22:41:03] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:31] filterscripts = ""  (string)
+[22:46:31] 
+[22:46:31] Server Plugins
+[22:46:31] --------------
+[22:46:31]  Loading plugin: PySAMP.dll
+[22:46:31]   Loaded.
+[22:46:31]  Loaded 1 plugins.
+
+[22:46:31] 
+[22:46:31] Filterscripts
+[22:46:31] ---------------
+[22:46:31]   Loaded 0 filterscripts.
+
+[22:46:31] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:46:31] Loading PYSAMP
+[22:46:31] Loading PySAMP gamemode
+[22:46:31] PyGamemode::PyGamemode(\python)
+[22:46:32] 
+----------------------------------
+[22:46:32] Initializing Threading
+[22:46:32]   Bare Script
+
+[22:46:32] ----------------------------------
+
+[22:46:32] Number of vehicle models: 0
+[22:46:32] Initialized Threading
+[22:46:58] [connection] incoming connection: 127.0.0.1:59755 id: 0
+[22:46:58] [join] DeViL has joined the server (0:127.0.0.1)
+[22:49:19] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:50:18] filterscripts = ""  (string)
+[22:50:18] 
+[22:50:18] Server Plugins
+[22:50:18] --------------
+[22:50:18]  Loading plugin: PySAMP.dll
+[22:50:18]   Loaded.
+[22:50:18]  Loaded 1 plugins.
+
+[22:50:18] 
+[22:50:18] Filterscripts
+[22:50:18] ---------------
+[22:50:18]   Loaded 0 filterscripts.
+
+[22:50:18] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:50:18] Loading PYSAMP
+[22:50:18] Loading PySAMP gamemode
+[22:50:18] PyGamemode::PyGamemode(\python)
+[22:50:18] 
+----------------------------------
+[22:50:18]   Bare Script
+
+[22:50:18] ----------------------------------
+
+[22:50:18] Number of vehicle models: 0
+[22:50:18] Initializing Threading
+[22:50:18] Initialized Threading
+[22:53:28] [connection] incoming connection: 127.0.0.1:52375 id: 0
+[22:53:28] [join] DeViL has joined the server (0:127.0.0.1)
+[22:54:53] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:56:56] filterscripts = ""  (string)
+[22:56:56] 
+[22:56:56] Server Plugins
+[22:56:56] --------------
+[22:56:56]  Loading plugin: PySAMP.dll
+[22:56:56]   Loaded.
+[22:56:56]  Loaded 1 plugins.
+
+[22:56:57] 
+[22:56:57] Filterscripts
+[22:56:57] ---------------
+[22:56:57]   Loaded 0 filterscripts.
+
+[22:56:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:56:57] Loading PYSAMP
+[22:56:57] Loading PySAMP gamemode
+[22:56:57] PyGamemode::PyGamemode(\python)
+[22:56:57] 
+----------------------------------
+[22:56:57] Initializing Threading
+[22:56:57]   Bare Script
+
+[22:56:57] ----------------------------------
+
+[22:56:57] Number of vehicle models: 0
+[22:56:57] Initialized Threading
+[22:57:49] [connection] incoming connection: 127.0.0.1:57032 id: 0
+[22:57:49] [join] DeViL has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:01:35] filterscripts = ""  (string)
+[23:01:35] 
+[23:01:35] Server Plugins
+[23:01:35] --------------
+[23:01:35]  Loading plugin: PySAMP.dll
+[23:01:35]   Loaded.
+[23:01:35]  Loaded 1 plugins.
+
+[23:01:35] 
+[23:01:35] Filterscripts
+[23:01:35] ---------------
+[23:01:35]   Loaded 0 filterscripts.
+
+[23:01:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:01:35] Loading PYSAMP
+[23:01:35] Loading PySAMP gamemode
+[23:01:35] PyGamemode::PyGamemode(\python)
+[23:01:35] 
+----------------------------------
+[23:01:35] Initializing Threading
+[23:01:35]   Bare Script
+
+[23:01:35] ----------------------------------
+
+[23:01:35] Number of vehicle models: 0
+[23:01:35] Initialized Threading
+[23:02:04] [connection] incoming connection: 127.0.0.1:59179 id: 0
+[23:02:05] [join] DeViL has joined the server (0:127.0.0.1)
+[23:03:15] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:05:07] filterscripts = ""  (string)
+[23:05:07] 
+[23:05:07] Server Plugins
+[23:05:07] --------------
+[23:05:07]  Loading plugin: PySAMP.dll
+[23:05:07]   Loaded.
+[23:05:07]  Loaded 1 plugins.
+
+[23:05:07] 
+[23:05:07] Filterscripts
+[23:05:07] ---------------
+[23:05:07]   Loaded 0 filterscripts.
+
+[23:05:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:05:07] Loading PYSAMP
+[23:05:07] Loading PySAMP gamemode
+[23:05:07] PyGamemode::PyGamemode(\python)
+[23:05:07] 
+----------------------------------
+[23:05:07] Initializing Threading
+[23:05:07]   Bare Script
+
+[23:05:07] ----------------------------------
+
+[23:05:07] Number of vehicle models: 0
+[23:05:07] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:07:56] filterscripts = ""  (string)
+[23:07:56] 
+[23:07:56] Server Plugins
+[23:07:56] --------------
+[23:07:56]  Loading plugin: PySAMP.dll
+[23:07:56]   Loaded.
+[23:07:56]  Loaded 1 plugins.
+
+[23:07:56] 
+[23:07:56] Filterscripts
+[23:07:56] ---------------
+[23:07:56]   Loaded 0 filterscripts.
+
+[23:07:56] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:07:56] Loading PYSAMP
+[23:07:56] Loading PySAMP gamemode
+[23:07:56] PyGamemode::PyGamemode(\python)
+[23:07:56] 
+----------------------------------
+[23:07:56] Initializing Threading
+[23:07:56]   Bare Script
+
+[23:07:56] ----------------------------------
+
+[23:07:56] Number of vehicle models: 0
+[23:07:56] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:17] filterscripts = ""  (string)
+[23:15:17] 
+[23:15:17] Server Plugins
+[23:15:17] --------------
+[23:15:17]  Loading plugin: PySAMP.dll
+[23:15:17]   Loaded.
+[23:15:17]  Loaded 1 plugins.
+
+[23:15:17] 
+[23:15:17] Filterscripts
+[23:15:17] ---------------
+[23:15:17]   Loaded 0 filterscripts.
+
+[23:15:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:15:17] Loading PYSAMP
+[23:15:17] Loading PySAMP gamemode
+[23:15:17] PyGamemode::PyGamemode(\python)
+[23:15:17] 
+----------------------------------
+[23:15:17] Initializing Threading
+[23:15:17]   Bare Script
+
+[23:15:17] ----------------------------------
+
+[23:15:17] Number of vehicle models: 0
+[23:15:17] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:27] filterscripts = ""  (string)
+[23:51:27] 
+[23:51:27] Server Plugins
+[23:51:27] --------------
+[23:51:27]  Loading plugin: PySAMP.dll
+[23:51:27]   Loaded.
+[23:51:27]  Loaded 1 plugins.
+
+[23:51:27] 
+[23:51:27] Filterscripts
+[23:51:27] ---------------
+[23:51:27]   Loaded 0 filterscripts.
+
+[23:51:27] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:51:27] Loading PYSAMP
+[23:51:27] Loading PySAMP gamemode
+[23:51:27] PyGamemode::PyGamemode(\python)
+[23:51:27] 
+----------------------------------
+[23:51:27] Initializing Threading
+[23:51:27]   Bare Script
+
+[23:51:27] ----------------------------------
+
+[23:51:27] Number of vehicle models: 0
+[23:51:27] Initialized Threading
+[23:51:55] [connection] incoming connection: 127.0.0.1:52941 id: 0
+[23:51:56] [join] DeViL has joined the server (0:127.0.0.1)
+[00:05:30] /text
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:58] filterscripts = ""  (string)
+[00:12:58] 
+[00:12:58] Server Plugins
+[00:12:58] --------------
+[00:12:58]  Loading plugin: PySAMP.dll
+[00:12:58]   Loaded.
+[00:12:58]  Loaded 1 plugins.
+
+[00:12:58] 
+[00:12:58] Filterscripts
+[00:12:58] ---------------
+[00:12:58]   Loaded 0 filterscripts.
+
+[00:12:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:12:58] Loading PYSAMP
+[00:12:58] Loading PySAMP gamemode
+[00:12:58] PyGamemode::PyGamemode(\python)
+[00:12:58] 
+----------------------------------
+[00:12:58] Initializing Threading
+[00:12:58]   Bare Script
+
+[00:12:58] ----------------------------------
+
+[00:12:58] Number of vehicle models: 0
+[00:12:58] Initialized Threading
+[00:13:21] [connection] incoming connection: 127.0.0.1:61204 id: 0
+[00:13:21] [join] DeViL has joined the server (0:127.0.0.1)
+[00:13:51] Kicking 127.0.0.1 because they didn't logon to the game.
+[00:14:21] [part] DeViL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:48] filterscripts = ""  (string)
+[00:15:48] 
+[00:15:48] Server Plugins
+[00:15:48] --------------
+[00:15:48]  Loading plugin: PySAMP.dll
+[00:15:48]   Loaded.
+[00:15:48]  Loaded 1 plugins.
+
+[00:15:48] 
+[00:15:48] Filterscripts
+[00:15:48] ---------------
+[00:15:48]   Loaded 0 filterscripts.
+
+[00:15:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:15:48] Loading PYSAMP
+[00:15:48] Loading PySAMP gamemode
+[00:15:48] PyGamemode::PyGamemode(\python)
+[00:15:49] 
+----------------------------------
+[00:15:49] Initializing Threading
+[00:15:49]   Bare Script
+
+[00:15:49] ----------------------------------
+
+[00:15:49] Number of vehicle models: 0
+[00:15:49] Initialized Threading
+[00:16:07] [connection] incoming connection: 127.0.0.1:60790 id: 0
+[00:16:07] [join] DeViL has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:13:12] filterscripts = ""  (string)
+[07:13:12] 
+[07:13:12] Server Plugins
+[07:13:12] --------------
+[07:13:12]  Loading plugin: PySAMP.dll
+[07:13:12]   Loaded.
+[07:13:12]  Loaded 1 plugins.
+
+[07:13:12] 
+[07:13:12] Filterscripts
+[07:13:12] ---------------
+[07:13:12]   Loaded 0 filterscripts.
+
+[07:13:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[07:13:12] Loading PYSAMP
+[07:13:12] Loading PySAMP gamemode
+[07:13:12] PyGamemode::PyGamemode(\python)
+[07:13:13] 
+----------------------------------
+[07:13:13] Initializing Threading
+[07:13:13]   Bare Script
+
+[07:13:13] ----------------------------------
+
+[07:13:13] Number of vehicle models: 0
+[07:13:13] Initialized Threading
+[07:13:37] [connection] incoming connection: 127.0.0.1:55143 id: 0
+[07:13:37] [join] DeViL has joined the server (0:127.0.0.1)
+[07:21:13] RCON (In-Game): Player #0 (DeViL) has logged in.
+[07:21:15] RCON (In-Game): Player [DeViL] sent command: changemode bare
+[07:21:15] Stopping PYSAMP-Threading
+[07:21:27] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[07:21:27] Loading PYSAMP
+[07:21:27] Reloading PySAMP gamemode
+[07:21:27] PyGamemode::reload()-begin
+[07:21:27] PyGamemode::reload()-end
+[07:21:27] 
+----------------------------------
+[07:21:27]   Bare Script
+
+[07:21:27] ----------------------------------
+
+[07:21:27] Number of vehicle models: 0
+[07:21:27] Initializing Threading
+[07:21:27] Initialized Threading
+[07:24:46] RCON (In-Game): Player [DeViL] sent command: changemode bare
+[07:24:46] Stopping PYSAMP-Threading
+[07:24:58] Loading PYSAMP
+[07:24:58] Reloading PySAMP gamemode
+[07:24:58] PyGamemode::reload()-begin
+[07:24:58] PyGamemode::reload()-end
+[07:24:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[07:24:58] 
+----------------------------------
+[07:24:58]   Bare Script
+
+[07:24:58] ----------------------------------
+
+[07:24:58] Number of vehicle models: 0
+[07:24:58] Initializing Threading
+[07:24:58] Initialized Threading
+[07:33:06] RCON (In-Game): Player [DeViL] sent command: login nothing
+[07:33:07] RCON (In-Game): Player [DeViL] sent command: changemode bare
+[07:33:07] Stopping PYSAMP-Threading
+[07:33:20] Loading PYSAMP
+[07:33:20] Reloading PySAMP gamemode
+[07:33:20] PyGamemode::reload()-begin
+[07:33:20] PyGamemode::reload()-end
+[07:33:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[07:33:20] 
+----------------------------------
+[07:33:20]   Bare Script
+
+[07:33:20] Initializing Threading
+[07:33:20] ----------------------------------
+
+[07:33:20] Number of vehicle models: 0
+[07:33:20] Initialized Threading
+[07:33:24] /myname
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:30:04] filterscripts = ""  (string)
+[09:30:04] 
+[09:30:04] Server Plugins
+[09:30:04] --------------
+[09:30:04]  Loading plugin: PySAMP.dll
+[09:30:04]   Loaded.
+[09:30:04]  Loaded 1 plugins.
+
+[09:30:04] 
+[09:30:04] Filterscripts
+[09:30:04] ---------------
+[09:30:04]   Loaded 0 filterscripts.
+
+[09:30:04] Loading PYSAMP
+[09:30:04] Loading PySAMP gamemode
+[09:30:04] PyGamemode::PyGamemode(\python)
+[09:30:04] 
+------------------------------------
+[09:30:04] Initializing Threading
+[09:30:04]   Empty Pawn GameMode Script Loaded.
+
+[09:30:04] ------------------------------------
+
+[09:30:04] Number of vehicle models: 0
+[09:30:04] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:30:30] 
+[09:30:30] Server Plugins
+[09:30:30] --------------
+[09:30:30]  Loading plugin: PySAMP.dll
+[09:30:30]   Loaded.
+[09:30:30]  Loaded 1 plugins.
+
+[09:30:30] 
+[09:30:30] Filterscripts
+[09:30:30] ---------------
+[09:30:30]   Loading filterscript '0.amx'...
+[09:30:30]   Unable to load filterscript '0.amx'.
+[09:30:30]   Loaded 0 filterscripts.
+
+[09:30:30] Loading PYSAMP
+[09:30:30] Loading PySAMP gamemode
+[09:30:30] PyGamemode::PyGamemode(\python)
+[09:30:30] 
+------------------------------------
+[09:30:30] Initializing Threading
+[09:30:30]   Empty Pawn GameMode Script Loaded.
+
+[09:30:30] ------------------------------------
+
+[09:30:30] Number of vehicle models: 0
+[09:30:30] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:32:02] 
+[09:32:02] Server Plugins
+[09:32:02] --------------
+[09:32:02]  Loading plugin: PySAMP.dll
+[09:32:02]   Loaded.
+[09:32:02]  Loaded 1 plugins.
+
+[09:32:02] 
+[09:32:02] Filterscripts
+[09:32:02] ---------------
+[09:32:02]   Loading filterscript '0.amx'...
+[09:32:02]   Unable to load filterscript '0.amx'.
+[09:32:02]   Loaded 0 filterscripts.
+
+[09:32:02] Loading PYSAMP
+[09:32:02] Loading PySAMP gamemode
+[09:32:02] PyGamemode::PyGamemode(\python)
+[09:32:03] 
+------------------------------------
+[09:32:03] Initializing Threading
+[09:32:03]   Empty Pawn GameMode Script Loaded.
+
+[09:32:03] ------------------------------------
+
+[09:32:03] Number of vehicle models: 0
+[09:32:03] Initialized Threading
