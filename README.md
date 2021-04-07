@@ -38,6 +38,8 @@ def OnPlayerConnect(playerid):
 ```
 ## Source Code
 [PySAMP](https://github.com/habecker/PySAMP)
+Join PySAMP[Discord](https://discord.gg/fwCD8fezeg) Server (For Support)
+For Getting PySAMP Support Join My [Discord](https://discord.gg/7sZeef86DK)
 # Original Creators 
 - habecker
 - dennorske
